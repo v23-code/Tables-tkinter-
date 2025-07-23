@@ -1,2 +1,2 @@
 # Tables-tkinter-
-This is just a simple Tkinter that I made!
+This is a simple Tkinter application that I created.
